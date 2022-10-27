@@ -1,6 +1,8 @@
 # ffmpeg_flutter_cut_slow_fast
 
-A new Flutter project.
+## What is this?
+This application cuts the video into 3 parts and alternately speeds up and slows them down.
+This project was made to try the ffmpeg library
 
 ## Getting Started
 
