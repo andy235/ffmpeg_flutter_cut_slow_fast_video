@@ -4,6 +4,22 @@
 This application cuts the video into 3 parts and alternately speeds up and slows them down.
 This project was made to try the ffmpeg library
 
+1. start page
+
+![alt text](assets/image/markdown/1.png)
+
+2. pick video
+
+![alt text](assets/image/markdown/2.png)
+
+3. push "get short video" button
+
+![alt text](assets/image/markdown/3.png)
+
+4. 3 short video in path
+
+![alt text](assets/image/markdown/4.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
